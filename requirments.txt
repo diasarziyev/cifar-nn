@@ -1,0 +1,10 @@
+streamlit==1.51.0
+
+torch==2.4.1+cpu
+torchvision==0.19.1+cpu
+torchaudio==2.4.1+cpu
+
+numpy
+pillow
+
+--extra-index-url https://download.pytorch.org/whl/cpu
